@@ -1,0 +1,9 @@
+.container{
+    border: 5px outset;
+    padding: 10px auto;
+    background-color: lightgray;
+}
+#BMI{
+    border-bottom: 5px inset;
+    
+}
